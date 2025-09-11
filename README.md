@@ -13,6 +13,34 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
+## :mortar_board: GitHub Student Benefits
+
+**Are you a student?** Check if you have GitHub Student benefits active!
+
+GitHub offers free access to powerful developer tools through the **[GitHub Student Developer Pack](https://education.github.com/pack)**. This includes:
+
+- **GitHub Pro** for free (normally $4/month)
+- **Unlimited private repositories**
+- **GitHub Codespaces** with more hours
+- **GitHub Copilot** for free
+- **Access to 100+ partner tools** worth thousands of dollars
+
+### :mag: How to check if your student license is active:
+
+1. **Visit your GitHub settings**: Go to [github.com/settings/billing](https://github.com/settings/billing)
+2. **Look for "GitHub Pro"**: If you see "GitHub Pro" in your plan with "Student" mentioned, you're all set! :tada:
+3. **Check the Student Developer Pack**: Visit [education.github.com/discount_requests/student_application](https://education.github.com/discount_requests/student_application)
+
+### :rocket: Don't have it yet? Here's how to get it:
+
+1. **Apply for the Student Developer Pack**: Visit [education.github.com/pack](https://education.github.com/pack)
+2. **Verify your student status**: You'll need a valid `.edu` email or proof of enrollment
+3. **Enjoy the benefits**: Once approved, you'll have access to all the premium features!
+
+**Need help?** Check out the [GitHub Education documentation](https://docs.github.com/en/education) for more details.
+
+---
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
